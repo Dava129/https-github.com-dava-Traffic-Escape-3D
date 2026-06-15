@@ -1,0 +1,11 @@
+{
+    "name": "Dapenk365.Newpackage.Tests",
+    "references": [
+        "Dapenk365.Newpackage"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

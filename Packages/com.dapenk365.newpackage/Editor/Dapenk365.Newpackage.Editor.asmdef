@@ -1,0 +1,10 @@
+{
+    "name": "Dapenk365.Newpackage.Editor",
+    "references": [
+      "Dapenk365.Newpackage"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

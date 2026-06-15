@@ -1,0 +1,14 @@
+{
+    "name": "Dapenk365.Newpackage.Editor.Tests",
+    "references": [
+        "Dapenk365.Newpackage.Editor",
+        "Dapenk365.Newpackage"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

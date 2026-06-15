@@ -1,4 +1,8 @@
 ﻿<Solution>
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Dapenk365.Newpackage.Editor.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Dapenk365.Newpackage.Tests.csproj" />
+  <Project Path="Dapenk365.Newpackage.csproj" />
+  <Project Path="Dapenk365.Newpackage.Editor.Tests.csproj" />
 </Solution>
